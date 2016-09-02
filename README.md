@@ -1,3 +1,3 @@
 # hello-world
-Test
-Try
+This is my first commit
+Adding changes manually.
